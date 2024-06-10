@@ -1009,12 +1009,8 @@
   .bxl-less:before {
     content: "\e94c";
   }
-  .bxl-linkedin:before {
-    content: "\e94d";
-  }
-  .bxl-linkedin-square:before {
-    content: "\e94e";
-  }
+
+  
   .bxl-magento:before {
     content: "\e94f";
   }
